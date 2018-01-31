@@ -21,6 +21,7 @@ Company Handbooks
 - [Niteo](https://github.com/niteoweb/handbook)
 - [Nylas](https://github.com/nylas/handbook)
 - [Pinpoint](https://github.com/pinpt/handbook)
+- [Valve](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf) [PDF]
 
 Contribute
 ----------
