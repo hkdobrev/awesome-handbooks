@@ -19,6 +19,7 @@ Company Handbooks
 - [HubSpot](https://www.hubspot.com/jobs/culture)
 - [Loomio Cooperative](https://github.com/loomio/loomio-coop-handbook)
 - [Made Tech](https://github.com/madetech/handbook)
+- [Mondora](https://github.com/mondora/handbook)
 - [Netflix](https://jobs.netflix.com/culture)
 - [Niteo](https://github.com/niteoweb/handbook)
 - [Nylas](https://github.com/nylas/handbook)
