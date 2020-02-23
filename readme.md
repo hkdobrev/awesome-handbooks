@@ -28,6 +28,7 @@ Company Handbooks
 - [Pinpoint](https://github.com/pinpt/handbook)
 - [source{d}](https://github.com/src-d/guide)
 - [sophilabs](https://github.com/sophilabs/playbook)
+- [Tesla](https://de.scribd.com/document/446927426/Tesla-Anti-Handbook-Handbook)
 - [thoughtbot](https://thoughtbot.com/playbook)
 - [Valve](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf) [PDF]
 
