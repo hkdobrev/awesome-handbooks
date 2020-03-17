@@ -3,7 +3,7 @@ Awesome Handbooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f
 
 > A curated list of awesome company handbooks
 
-[A company handbook](https://en.m.wikipedia.org/wiki/Employee_handbook)
+[A company handbook](https://en.wikipedia.org/wiki/Employee_handbook)
 is a set of guidelines targeted
 towards its employees, potential hires and the community.
 
