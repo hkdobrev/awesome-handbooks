@@ -13,9 +13,11 @@ Company Handbooks
 - [Basecamp](https://github.com/basecamp/handbook)
 - [Bonusly](https://github.com/bonusly/un-handbook)
 - [CG Cookie](https://github.com/CGCookie/handbook)
+- [Civic Actions](https://handbook.civicactions.com/en/latest/README/)
 - [Clef](https://github.com/clef/handbook)
 - [Clippings](https://github.com/clippings/join-us)
 - [DevMynd](https://github.com/devmynd/handbook)
+- [DXW](https://playbook.dxw.com/)
 - [GitLab](https://about.gitlab.com/handbook/)
 - [HolidayExtras](https://github.com/holidayextras/culture)
 - [HubSpot](https://www.hubspot.com/jobs/culture)
@@ -31,6 +33,7 @@ Company Handbooks
 - [Strapi](https://handbook.strapi.io)
 - [Tesla](https://de.scribd.com/document/446927426/Tesla-Anti-Handbook-Handbook)
 - [thoughtbot](https://thoughtbot.com/playbook)
+- [TTS](https://handbook.tts.gsa.gov/)
 - [Valve](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf) [PDF]
 
 Contribute
