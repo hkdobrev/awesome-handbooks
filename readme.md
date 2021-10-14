@@ -17,7 +17,7 @@ Company Handbooks
 - [Clef](https://github.com/clef/handbook)
 - [Clippings](https://github.com/clippings/join-us)
 - [DevMynd](https://github.com/devmynd/handbook)
-- [DXW](https://playbook.dxw.com/z)
+- [DXW](https://playbook.dxw.com/)
 - [GitLab](https://about.gitlab.com/handbook/)
 - [HolidayExtras](https://github.com/holidayextras/culture)
 - [HubSpot](https://www.hubspot.com/jobs/culture)
