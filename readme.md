@@ -29,6 +29,7 @@ Company Handbooks
 - [Nylas](https://github.com/nylas/handbook)
 - [Pinpoint](https://github.com/pinpt/handbook)
 - [source{d}](https://github.com/src-d/guide)
+- [sourcegraph](https://github.com/sourcegraph/handbook)
 - [sophilabs](https://github.com/sophilabs/playbook)
 - [Strapi](https://handbook.strapi.io)
 - [Tesla](https://de.scribd.com/document/446927426/Tesla-Anti-Handbook-Handbook)
