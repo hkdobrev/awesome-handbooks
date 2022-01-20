@@ -32,7 +32,7 @@ Company Handbooks
 - [sourcegraph](https://github.com/sourcegraph/handbook)
 - [sophilabs](https://github.com/sophilabs/playbook)
 - [Strapi](https://handbook.strapi.io)
-- [Tesla](https://de.scribd.com/document/446927426/Tesla-Anti-Handbook-Handbook)
+- [Tesla](https://www.scribd.com/document/446927426/Tesla-Anti-Handbook-Handbook?secret_password=tL7xWs12RWRhuakJfoYs)
 - [thoughtbot](https://thoughtbot.com/playbook)
 - [TTS](https://handbook.tts.gsa.gov/)
 - [Valve](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf) [PDF]
