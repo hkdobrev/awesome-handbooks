@@ -20,6 +20,7 @@ Company Handbooks
 - [DXW](https://playbook.dxw.com/)
 - [GitLab](https://about.gitlab.com/handbook/)
 - [HolidayExtras](https://github.com/holidayextras/culture)
+- [hospitable](https://www.notion.so/Applicant-Handbook-a60a560456f24c39b319b7ff2038069b)
 - [HubSpot](https://www.hubspot.com/jobs/culture)
 - [Loomio Cooperative](https://github.com/loomio/loomio-coop-handbook)
 - [Made Tech](https://github.com/madetech/handbook)
