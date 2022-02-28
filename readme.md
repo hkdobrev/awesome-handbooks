@@ -25,6 +25,7 @@ Company Handbooks
 - [Loomio Cooperative](https://github.com/loomio/loomio-coop-handbook)
 - [Made Tech](https://github.com/madetech/handbook)
 - [Mondora](https://github.com/mondora/handbook)
+- [MUI](https://mui-org.notion.site/mui-org/Handbook-f086d47e10794d5e839aef9dc67f324b)
 - [Netflix](https://jobs.netflix.com/culture)
 - [Niteo](https://github.com/niteoweb/handbook)
 - [Nylas](https://github.com/nylas/handbook)
