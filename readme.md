@@ -30,6 +30,7 @@ Company Handbooks
 - [Niteo](https://github.com/niteoweb/handbook)
 - [Nylas](https://github.com/nylas/handbook)
 - [Pinpoint](https://github.com/pinpt/handbook)
+- [Posthog](https://posthog.com/handbook)
 - [source{d}](https://github.com/src-d/guide)
 - [sourcegraph](https://github.com/sourcegraph/handbook)
 - [sophilabs](https://github.com/sophilabs/playbook)
