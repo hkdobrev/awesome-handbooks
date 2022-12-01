@@ -10,6 +10,7 @@ towards its employees, potential hires and the community.
 Company Handbooks
 -------
 
+- [Airbyte](https://handbook.airbyte.com/)
 - [Basecamp](https://github.com/basecamp/handbook)
 - [Bonusly](https://github.com/bonusly/un-handbook)
 - [CG Cookie](https://github.com/CGCookie/handbook)
