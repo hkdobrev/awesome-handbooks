@@ -42,6 +42,7 @@ Company Handbooks
 - [thoughtbot](https://thoughtbot.com/playbook)
 - [TTS](https://handbook.tts.gsa.gov/)
 - [Valve](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf) [PDF]
+- [Warp](https://warpdev.notion.site/Public-Warp-How-We-Work-b872d41a1da743fca18220a731aeba48)
 
 Contribute
 ----------
