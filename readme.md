@@ -35,6 +35,7 @@ Company Handbooks
 - [source{d}](https://github.com/src-d/guide)
 - [sourcegraph](https://github.com/sourcegraph/handbook)
 - [sophilabs](https://sophilabs.notion.site/Playbook-956e7c5ff4b544f4be17fde1dc8d895d)
+- [Sparksuite](https://handbook.sparksuite.com/)
 - [Strapi](https://handbook.strapi.io)
 - [Tesla](https://www.scribd.com/document/446927426/Tesla-Anti-Handbook-Handbook?secret_password=tL7xWs12RWRhuakJfoYs)
 - [thoughtbot](https://thoughtbot.com/playbook)
