@@ -18,7 +18,7 @@ Company Handbooks
 - [Clef](https://github.com/clef/handbook)
 - [Clippings](https://github.com/clippings/join-us)
 - [DXW](https://playbook.dxw.com/)
-- [GitLab](https://about.gitlab.com/handbook/)
+- [GitLab](https://handbook.gitlab.com/)
 - [HolidayExtras](https://github.com/holidayextras/culture)
 - [hospitable](https://www.notion.so/Applicant-Handbook-a60a560456f24c39b319b7ff2038069b)
 - [HubSpot](https://www.hubspot.com/jobs/culture)
