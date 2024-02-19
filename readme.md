@@ -17,6 +17,7 @@ Company Handbooks
 - [CG Cookie](https://github.com/CGCookie/handbook)
 - [Civic Actions](https://handbook.civicactions.com/en/latest/README/)
 - [Clef](https://github.com/clef/handbook)
+- [Cleo](https://web.meetcleo.com/performance-philosophy)
 - [DXW](https://playbook.dxw.com/)
 - [GitLab](https://handbook.gitlab.com/)
 - [HolidayExtras](https://github.com/holidayextras/culture)
