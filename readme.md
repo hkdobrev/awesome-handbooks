@@ -24,7 +24,7 @@ Company Handbooks
 - [hospitable](https://www.notion.so/Applicant-Handbook-a60a560456f24c39b319b7ff2038069b)
 - [HubSpot](https://www.hubspot.com/culture-code)
 - [Human Made](https://handbook.hmn.md/)
-- [Loomio Cooperative](https://github.com/loomio/loomio-coop-handbook)
+- [Loomio Cooperative](https://www.loomio.coop/)
 - [Made Tech](https://github.com/madetech/handbook)
 - [Mattermost](https://handbook.mattermost.com/)
 - [Mondora](https://github.com/mondora/handbook)
