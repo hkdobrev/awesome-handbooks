@@ -11,6 +11,7 @@ Company Handbooks
 -------
 
 - [Airbyte](https://handbook.airbyte.com/)
+- [Atlassian](https://www.atlassian.com/company/careers/resources)
 - [Basecamp](https://github.com/basecamp/handbook)
 - [Bonusly](https://github.com/bonusly/un-handbook)
 - [CG Cookie](https://github.com/CGCookie/handbook)
